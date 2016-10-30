@@ -13,7 +13,7 @@ an immediate visual cue to users that they on one of the business.gov.au related
 
 Business.gov.au uses the header space to also include a search dropdown and a megamenu, not
 all sites will use this same menu. It is recommended that if you are using a megamenu, that
-you try and best replicate the [megamenu styles]({{baseurl}}/sg-megamenu.html) in this guide.
+you try and best replicate the [megamenu styles]({{site.baseurl}}/sg-megamenu.html) in this guide.
 
 *Note*: The business.gov.au website uses a dynamically updated menu and its containing links
 are subject to change. For this reason copying the straight links from the menu is not recommended,
@@ -24,7 +24,7 @@ megamenu.
 
 ## Example
 
-![Image of the business.gov.au header]({{baseurl}}/images/bga-header.png)
+![Image of the business.gov.au header]({{site.baseurl}}/images/bga-header.png)
 
 ## HTML
 

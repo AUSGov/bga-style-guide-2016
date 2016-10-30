@@ -28,11 +28,11 @@ In the future we will look at adding a service to allow sites to pull in our foo
 
 ### Mobile First
 
-<img style="max-width: 50%" src="{{baseurl}}/images/bga-mobile-first-footer.png" alt="Image of the business.gov.au mobile footer" />
+<img style="max-width: 50%" src="{{site.baseurl}}/images/bga-mobile-first-footer.png" alt="Image of the business.gov.au mobile footer" />
 
 ### Medium widths and up
 
-![Image of the business.gov.au medium width and up footer]({{baseurl}}/images/bga-medium-up-footer.png)
+![Image of the business.gov.au medium width and up footer]({{site.baseurl}}/images/bga-medium-up-footer.png)
 
 ## HTML
 
