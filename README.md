@@ -45,3 +45,14 @@ are ignored by the `.gitignore` file, as they shouldn't be pushed to the remote
 repository.
 
 Navigate to localhost:4000 to see the local version of the compiled site.
+
+## The future
+
+The future aim of this site is to provide guideance on UI and design decisions, as well
+as to provide information on what styles should be used for consistency across 
+bga websites.
+
+As a part of this, we hope to be able to use this site to link to scss files, such as a
+_variables.scss file that can be pulled down and used as the base for all sites. This
+way if any changes are made to code that is common across sites, it can be pulled down,
+tested and implemented.
