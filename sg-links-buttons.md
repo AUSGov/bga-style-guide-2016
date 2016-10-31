@@ -82,6 +82,24 @@ Anchor tags have a color, and a `text-decoration: underline` style.
 $anchor-font-color: #16306C;
 {% endhighlight %}
 
+### External Links
+
+Links that go to external links, have an additional style to add a an icon indicating
+that they lead to an external site.
+
+See this example [Google.com](http://www.google.com.au)
+
+{% highlight scss %}
+a:not([href*="mailto"])[href*="//"] {
+  &:after {
+    padding: 0.25em;
+    display: inline-block;
+    content: $fa-var-external-link; // "\f08e"
+    font: normal normal normal 14px/1 FontAwesome;
+  }
+}
+{% endhighlight %}
+
 <div id="buttons"></div>
 
 ## Buttons
