@@ -12,6 +12,7 @@ On this page:
 - [Buttons](#buttons)
 
 <div id="explanation"></div>
+
 ## Explanation
 
 In different places on the web it is important to include links and buttons,
@@ -59,6 +60,7 @@ As mentioned earlier, these rules are not set in stone and there may be situatio
 these guidelines do not make sense, or an alternative option would be better.
 
 <div id="links"></div>
+
 ## Links
 
 When using links as inline navigation, it is important to ensure that the link text is
@@ -81,6 +83,7 @@ $anchor-font-color: #16306C;
 {% endhighlight %}
 
 <div id="buttons"></div>
+
 ## Buttons
 
 <button class="call-to-action">Example</button>

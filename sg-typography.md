@@ -8,11 +8,10 @@ styleguide: true
 On this page:
 
 - [Fonts](#fonts)
-- [Heading Levels](#heading-levels)
-- [Paragraphs](#paragraphs)
-- [Blockquotes](#blockquotes)
+- [Heading Levels and Paragraph](#heading-levels)
 
 <div id="fonts"></div>
+
 ## Fonts
 
 Business.gov.au uses 'Open Sans' as its default font, with a fallback to 'Sans Serif'.
@@ -27,7 +26,8 @@ Available font weights in both regular and italics are 300, 400, 600, 700.
 BGA uses this scss variable: `$bga-font-family-sans-serif: 'Open Sans', sans-serif;`
 
 <div id="heading-levels"></div>
-## Heading Levels
+
+## Heading Levels and Paragraph
 
 Business.gov.au has base level styles for heading levels, and then individual overrides
 for heading use in other parts of the site.
