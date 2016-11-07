@@ -15,7 +15,7 @@ In a mobile view the footer wraps into one column and the business.gov.au logo i
 larger screen widths, the footer links move into a row and the logo is replaced by text. See the
 HTML section on this page for more details
 
-Business.gov.au has a format for the footer that may or not apply to all sites, but if possible
+business.gov.au has a format for the footer that may or not apply to all sites, but if possible
 try and replicate its appearance.
 
 *Note*: The business.gov.au website updates its footer every now and then. For this reason 
@@ -60,7 +60,7 @@ In the future we will look at adding a service to allow sites to pull in our foo
         <a href="/"><strong>business</strong>.gov.au</a>
       </div>
       <a href="/" class="logo">
-        <img src="/Areas/Business/Assets/App/Images/bga_logo_footer.png" alt="Business.gov.au logo">
+        <img src="/Areas/Business/Assets/App/Images/bga_logo_footer.png" alt="business.gov.au logo">
       </a>
     </div>
   </div>

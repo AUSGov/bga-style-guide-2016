@@ -11,7 +11,7 @@ The site header is a primary form of providing a consistent look and feel across
 listed in the scope for this style guide. By having a common header across all sites, it is
 an immediate visual cue to users that they on one of the business.gov.au related sites.
 
-Business.gov.au uses the header space to also include a search dropdown and a megamenu, not
+business.gov.au uses the header space to also include a search dropdown and a megamenu, not
 all sites will use this same menu. It is recommended that if you are using a megamenu, that
 you try and best replicate the [megamenu styles]({{site.baseurl}}/sg-megamenu.html) in this guide.
 

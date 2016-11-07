@@ -14,7 +14,7 @@ On this page:
 
 ## Fonts
 
-Business.gov.au uses 'Open Sans' as its default font, with a fallback to 'Sans Serif'.
+business.gov.au uses 'Open Sans' as its default font, with a fallback to 'Sans Serif'.
 
 This is imported as a google font with 
 {% highlight html %}
@@ -29,7 +29,7 @@ BGA uses this scss variable: `$bga-font-family-sans-serif: 'Open Sans', sans-ser
 
 ## Heading Levels and Paragraph
 
-Business.gov.au has base level styles for heading levels, and then individual overrides
+business.gov.au has base level styles for heading levels, and then individual overrides
 for heading use in other parts of the site.
 
 <table>

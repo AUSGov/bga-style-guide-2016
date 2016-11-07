@@ -106,7 +106,7 @@ a:not([href*="mailto"])[href*="//"] {
 
 <button class="call-to-action">Example</button>
 
-Business.gov.au has limited need for buttones and as such does not have the most comprehensive,
+business.gov.au has limited need for buttones and as such does not have the most comprehensive,
 guidance around button styles and usage. BGA uses square cornered buttons, that is they 
 have no `border-radius`.
 

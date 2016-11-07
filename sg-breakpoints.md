@@ -7,7 +7,7 @@ styleguide: true
 
 ## Explanation
 
-Business.gov.au is a 'mobile first' website, meaning that its base styles are 
+business.gov.au is a 'mobile first' website, meaning that its base styles are 
 designed for small screen devices, with additional styles added to adjust for 
 wider screens. By using this approach it ensures that our website is accessible 
 on a broader range of devices.
