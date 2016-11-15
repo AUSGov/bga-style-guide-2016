@@ -78,7 +78,7 @@ style guidelines.
   <div class="small-6 columns">
     <p><strong>Advisory Services</strong></p>
     <p><code>$bga-topic-color-advisory</code></p>
-    <p>#254F90</p>
+    <p>#A42079</p>
     <div class="color-block bga-topic-color-advisory"></div>
     <hr/>
   </div>
